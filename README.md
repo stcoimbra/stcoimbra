@@ -3,8 +3,7 @@
 
 
 - :mortar_board: I am currently enrolled in a postgraduate course in [Data Science and Business Analytics][iseg] and 
-                 I am doing a [300h online course][dataquest] to complete any postgraduate gaps
-[Become A VS Code SuperHero!][course]!
+                                I am doing a [300h online course][dataquest] to complete any postgraduate gaps
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
