@@ -31,7 +31,7 @@
 
 ### <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> Some SQL Querys
 
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [SalesLT - Final Excercise T-SQL](https://github.com/stcoimbra/SalesLT_Final_Exercise)
 - [Main T-SQL Functions with Solved Exercices](https://github.com/stcoimbra/Querying-Data-with-T-SQL)
 
 ---
