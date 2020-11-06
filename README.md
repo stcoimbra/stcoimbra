@@ -4,8 +4,8 @@
 
 - :mortar_board: I'm currently enrolled in a postgraduate course in [Data Science and Business Analytics][iseg] and  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm doing a [300h online course][dataquest] to complete any postgraduate gaps
-- 👯 I’m looking to collaborate with other content creators and participate in Data Science Competitions
-- ⚡ About me: I love to draw and play guitar / drums
+- :trophy: I’m looking to collaborate with other content creators and participate in Data Science Competitions
+- 🍺  I love a cold beer after work, bad jokes and playing padel 
 
 
 ### Connect with me:
