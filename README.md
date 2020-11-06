@@ -2,7 +2,9 @@
 ### I am an Agronomic Engineer diving deep into the wonderful world of data
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- :mortar_board: I am currently enrolled in a postgraduate course in [Data Science and Business Intelligence][iseg] and 
+                 I am doing an [online course][dataquest] to complete any postgraduate gaps
+[Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -98,3 +100,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[iseg]: 
+[dataquest]: 
