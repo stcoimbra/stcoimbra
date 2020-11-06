@@ -2,12 +2,10 @@
 ### I am an Agronomic Engineer diving deep into the wonderful world of data
 
 
-- :mortar_board: I am currently enrolled in a postgraduate course in [Data Science and Business Analytics][iseg] and 
-                                I am doing a [300h online course][dataquest] to complete any postgraduate gaps
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :mortar_board: I'm currently enrolled in a postgraduate course in [Data Science and Business Analytics][iseg] and  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm doing a [300h online course][dataquest] to complete any postgraduate gaps
+- 👯 I’m looking to collaborate with other content creators and participate in Data Science Competitions
+- ⚡ About me: I love to draw and play guitar / drums
 
 
 ### Connect with me:
