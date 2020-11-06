@@ -38,7 +38,7 @@
 
 ### <img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/50356314/98372035-0be75e80-2035-11eb-9905-dbd8212ee891.png" /> Some Python Projects
 
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Most Profitable Profile Apps](https://github.com/stcoimbra/ProfitableApps)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 
 ---
