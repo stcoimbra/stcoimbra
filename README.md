@@ -1,6 +1,4 @@
 ## Hello all GitHub enthusiasts! 👋
-### I am an Agronomic Engineer diving deep into the wonderful world of data
-
 
 - :mortar_board: I'm currently enrolled in a postgraduate course in [Data Science and Business Analytics][iseg] and  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm doing a [300h online course][dataquest] to complete any postgraduate gaps
