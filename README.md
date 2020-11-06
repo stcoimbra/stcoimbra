@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Power BI" width="26px" src="![2-20911_power-bi-hd-png-download](https://user-images.githubusercontent.com/50356314/98369345-b6a94e00-2030-11eb-94fd-3799cd3d3842.png" />]
+[<img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/50356314/98369345-b6a94e00-2030-11eb-94fd-3799cd3d3842.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
