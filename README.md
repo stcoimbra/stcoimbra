@@ -43,13 +43,6 @@
 
 ---
 
-### <img align="left" alt="Power BI" width="21px" src="https://user-images.githubusercontent.com/50356314/98370870-2d474b00-2033-11eb-9881-f51f01a8df30.png" /> Some Power BI Reports
-
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-
----
-
 ### You can see all this information on my [💻][website]  
 
 
